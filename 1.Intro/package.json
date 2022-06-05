@@ -1,0 +1,12 @@
+{
+  "name": "1.intro",
+  "version": "1.0.0",
+  "description": "Primer ejercicio JavaScript OB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hi": "echo \"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo\" && exit 1"
+  },
+  "author": "Dani Sanz",
+  "license": "ISC"
+}
