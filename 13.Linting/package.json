@@ -1,0 +1,16 @@
+{
+  "name": "13.linting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint .",
+    "lint-fix": "eslint --fix ."
+  },
+  "author": "Dani Sanz",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.17.0"
+  }
+}
