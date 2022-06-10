@@ -20,7 +20,6 @@ paragraphs.forEach(p => {
 sections.forEach(section => {
     section.addEventListener('dragover', e => {
         e.preventDefault();
-        // e.dataTransfer.dropEffect = 'move';
     })
 
     section.addEventListener('drop', e => {
