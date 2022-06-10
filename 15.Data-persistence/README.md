@@ -1,4 +1,4 @@
-# Crea un nuevo proyecto de Node
+# Crea un nuevo proyecto de Node
 
 - Crea un fichero index.html (utiliza el comando "!")
 - Crea un fichero index.js
