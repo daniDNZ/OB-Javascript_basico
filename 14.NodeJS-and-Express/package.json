@@ -1,0 +1,11 @@
+{
+  "name": "14.nodejs-and-express",
+  "version": "1.0.0",
+  "description": "Ejercicio 2 curso JavaScript Básico",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -o -c-1 ."
+  },
+  "author": "Dani Sanz",
+  "license": "ISC"
+}
