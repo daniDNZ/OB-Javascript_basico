@@ -1,0 +1,25 @@
+.section {
+    background-color: darkslategrey;
+
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.p {
+    background-color: white;
+
+    padding: 1rem;
+}
+
+.draggin {
+    opacity: .3;
+}
+
+.phantom-img {
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+
+    position: absolute;
+    left: -100vw;
+}
