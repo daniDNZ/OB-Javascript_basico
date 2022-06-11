@@ -22,7 +22,7 @@ function initMap() {
             lat: 41.8980142,
             lng: 12.4365471
         },
-        map,
+        map, 
         title: 'Tiramisú muy rico'
     });
 
